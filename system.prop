@@ -12,3 +12,6 @@ ro.semc.version.sw=1313-7483
 ro.semc.version.sw_revision=52.1.A.3.92
 ro.semc.version.sw_type=user
 ro.semc.version.sw_variant=CHINA-C2
+
++# LunarisAOSP maintainer
++ro.lunaris.maintainer=aoitsme
